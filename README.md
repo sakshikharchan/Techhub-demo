@@ -1,2 +1,2 @@
 # Techhub-demo
-this is my First repo
+this is my First Git  repository
